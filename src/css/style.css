@@ -28,9 +28,10 @@ main {
 .huddle-description {
   display: flex;
   flex-direction: column;
-  padding-top: 7.3rem;
+  flex-wrap: wrap;
+  padding-top: 7rem;
   color: #fff;
-  width: 30%;
+  max-width: 50rem;
   gap: 2rem;
 }
 
