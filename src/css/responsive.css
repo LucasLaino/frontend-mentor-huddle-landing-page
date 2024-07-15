@@ -1,4 +1,9 @@
 @media (max-width: 480px) {
+    main {
+        background-image: url(../images/bg-mobile.svg);
+        background-size: cover;
+    }
+    
     .main {
         flex-direction: column;
         align-items: center;
@@ -6,6 +11,14 @@
 
     .huddle-description {
         padding: 0rem 2rem;
+    }
+
+    .huddle-description h1{
+        font-size: 3rem;
+    }
+
+    .huddle-description p {
+        font-size: 1.7rem;
     }
     
     .main .huddle-description .btn-register {
