@@ -21,7 +21,7 @@ Essa é a solução para o [Huddle landing page with a single introductory secti
 
 ### Screenshot
 
-![](src/images/project-image.png)
+![](src/images/huddle-lp-project.png)
 
 ### Links
 
