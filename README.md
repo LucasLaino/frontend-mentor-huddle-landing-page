@@ -25,7 +25,7 @@ Essa é a solução para o [Huddle landing page with a single introductory secti
 
 ### Links
 
-- URL do site: [Huddle Landing Page](https://lucaslaino.github.io/huddle-lading-page/)
+- URL do site: [Huddle Landing Page](https://lucaslaino.github.io/frontend-mentor-huddle-landing-page/)
 
 ## Meu processo🚀
 
