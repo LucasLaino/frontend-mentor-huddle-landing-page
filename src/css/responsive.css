@@ -1,10 +1,10 @@
 @media (max-width: 480px) {
-    main {
+    .lading-page {
         background-image: url(../images/bg-mobile.svg);
         background-size: cover;
     }
     
-    .main {
+    .huddle-infos {
         flex-direction: column;
         align-items: center;
     }
@@ -13,15 +13,15 @@
         padding: 0rem 2rem;
     }
 
-    .huddle-description h1{
+    .huddle-description .huddle-title {
         font-size: 3rem;
     }
 
-    .huddle-description p {
+    .huddle-description .huddle-text {
         font-size: 1.7rem;
     }
     
-    .main .huddle-description .btn-register {
+    .huddle-description .btn-register {
         align-self: center;
     }
 
